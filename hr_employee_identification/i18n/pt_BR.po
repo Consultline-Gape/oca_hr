@@ -10,15 +10,16 @@ msgstr ""
 "Project-Id-Version: Odoo Server 8.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-10-03 03:00+0000\n"
-"PO-Revision-Date: 2017-10-03 03:00+0000\n"
+"PO-Revision-Date: 2024-09-05 17:07-0300\n"
 "Last-Translator: danimaribeiro <danimaribeiro@gmail.com>, 2017\n"
 "Language-Team: Portuguese (Brazil) (https://www.transifex.com/oca/"
 "teams/23907/pt_BR/)\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: \n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. module: hr_employee_identification
 #: model:ir.model.fields,field_description:hr_employee_identification.field_hr_employee_identification_type__create_uid
@@ -49,24 +50,24 @@ msgstr "Identificação"
 #: model:ir.model.fields,field_description:hr_employee_identification.field_hr_employee__identification_type_id
 #: model:ir.model.fields,field_description:hr_employee_identification.field_res_users__identification_type_id
 msgid "Identification Type"
-msgstr ""
+msgstr "Tipo de identificação"
 
 #. module: hr_employee_identification
 #: model:ir.model.fields,field_description:hr_employee_identification.field_hr_employee__identification_expiry_date
 #: model:ir.model.fields,field_description:hr_employee_identification.field_res_users__identification_expiry_date
 msgid "Identification expiry"
-msgstr ""
+msgstr "Expiração da identificação"
 
 #. module: hr_employee_identification
 #: model:ir.actions.act_window,name:hr_employee_identification.action_hr_employee_identification_type
 #: model:ir.ui.menu,name:hr_employee_identification.menu_hr_employee_identification_type
 msgid "Identification types"
-msgstr ""
+msgstr "Tipos de identificação"
 
 #. module: hr_employee_identification
 #: model:ir.model,name:hr_employee_identification.model_hr_employee_identification_type
 msgid "Identification/Passport"
-msgstr ""
+msgstr "Identificação/Passaporte"
 
 #. module: hr_employee_identification
 #: model:ir.model.fields,field_description:hr_employee_identification.field_hr_employee_identification_type____last_update
@@ -91,4 +92,4 @@ msgstr "Nome"
 #. module: hr_employee_identification
 #: model:ir.model,name:hr_employee_identification.model_res_users
 msgid "Users"
-msgstr ""
+msgstr "Usuários"

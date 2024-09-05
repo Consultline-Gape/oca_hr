@@ -9,26 +9,27 @@ msgstr ""
 "Project-Id-Version: Odoo Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-28 02:12+0000\n"
-"PO-Revision-Date: 2019-08-30 13:23+0000\n"
-"Last-Translator: Rodrigo Macedo <rmsolucoeseminformatic4@gmail.com>\n"
+"PO-Revision-Date: 2024-09-05 17:06-0300\n"
+"Last-Translator: Rodrigo Macedo <rmsolucoeseminformatic4@gmail."
+"com>\n"
 "Language-Team: Portuguese (Brazil) (https://www.transifex.com/oca/"
 "teams/23907/pt_BR/)\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: \n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.8\n"
+"X-Generator: Poedit 3.5\n"
 
 #. module: hr_employee_firstname
 #: model:ir.model,name:hr_employee_firstname.model_hr_employee_base
 msgid "Basic Employee"
-msgstr ""
+msgstr "Funcionário Básico"
 
 #. module: hr_employee_firstname
 #: model:ir.model,name:hr_employee_firstname.model_res_config_settings
 msgid "Config Settings"
-msgstr ""
+msgstr "Configurações de configuração"
 
 #. module: hr_employee_firstname
 #: model:ir.model,name:hr_employee_firstname.model_hr_employee
@@ -39,12 +40,12 @@ msgstr "Empregado"
 #: model:ir.model.fields,field_description:hr_employee_firstname.field_res_config_settings__employee_names_order
 #: model_terms:ir.ui.view,arch_db:hr_employee_firstname.res_config_settings_view_form
 msgid "Employee Names Order"
-msgstr ""
+msgstr "Ordem dos nomes dos funcionários"
 
 #. module: hr_employee_firstname
 #: model:ir.model.fields,field_description:hr_employee_firstname.field_hr_employee__firstname
 msgid "First name"
-msgstr ""
+msgstr "Nome"
 
 #. module: hr_employee_firstname
 #: model:ir.model.fields,field_description:hr_employee_firstname.field_hr_employee_base__firstname
@@ -55,7 +56,7 @@ msgstr "Primeiro nome"
 #. module: hr_employee_firstname
 #: model:ir.model.fields,field_description:hr_employee_firstname.field_hr_employee__lastname
 msgid "Last name"
-msgstr ""
+msgstr "Sobrenome"
 
 #. module: hr_employee_firstname
 #: model:ir.model.fields,field_description:hr_employee_firstname.field_hr_employee_base__lastname
@@ -72,9 +73,9 @@ msgstr "Sem nome estabelecido."
 #. module: hr_employee_firstname
 #: model:ir.model.fields,help:hr_employee_firstname.field_res_config_settings__employee_names_order
 msgid "Order to compose employee fullname"
-msgstr ""
+msgstr "Ordem para compor o nome completo do funcionário"
 
 #. module: hr_employee_firstname
 #: model:ir.model,name:hr_employee_firstname.model_hr_employee_public
 msgid "Public Employee"
-msgstr ""
+msgstr "Funcionário Público"

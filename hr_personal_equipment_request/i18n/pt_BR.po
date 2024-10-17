@@ -66,7 +66,7 @@ msgstr "Adiciona informações e alocação de equipamentos pessoais"
 #: model_terms:ir.ui.view,arch_db:hr_personal_equipment_request.hr_personal_equipment_request_form_view
 #, python-format
 msgid "Allocations"
-msgstr "A data de início é o primeiro dia em que o funcionário realmente trabalha e essa data é usada para o cálculo das alocações de licenças acumuladas"
+msgstr "Alocações"
 
 #. module: hr_personal_equipment_request
 #: model:ir.model.fields,field_description:hr_personal_equipment_request.field_hr_personal_equipment_request__allocations_count
